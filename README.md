@@ -5,11 +5,16 @@ Models implemented in PyTorch library of Python. Setup a Python environment in V
 
 # ACL Tear Detection
 Here two datasets are used
-KneeMRI Dataset:
-MRNet Dataset:
+
+KneeMRI Dataset: https://www.kaggle.com/datasets/sohaibanwaar1203/kneemridataset
+
+MRNet Dataset: https://www.kaggle.com/datasets/cjinny/mrnet-v1/data
+
 Download and input the path to these datasets accordingly in the code of the files.
+
 Run the Extraction file on these datasets to extract the data after which all files can be run on the extracted data.
 
 # Cell Nuclei Segmentation
-Dataset:
+Dataset: https://www.kaggle.com/competitions/data-science-bowl-2018/data
+
 Download and input the path to these datasets accordingly in the code of the files after which all files can be run.

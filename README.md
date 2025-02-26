@@ -12,9 +12,9 @@ MRNet Dataset: https://www.kaggle.com/datasets/cjinny/mrnet-v1/data
 
 Download and input the path to these datasets accordingly in the code of the files.
 
-Run the Extraction file on these datasets to extract the data after which all files can be run on the extracted data.
+Run the Extraction file on these datasets to extract the data after which all the files can be run on the extracted data.
 
 # Cell Nuclei Segmentation
 Dataset: https://www.kaggle.com/competitions/data-science-bowl-2018/data
 
-Download and input the path to these datasets accordingly in the code of the files after which all files can be run.
+Download and input the path to the dataset accordingly in the code of the files after which all the files can be run.
